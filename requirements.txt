@@ -13,3 +13,4 @@ python-dotenv
 gTTS
 googletrans==4.0.0rc1
 tswift
+DaisyXMusic
